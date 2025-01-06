@@ -7,3 +7,5 @@ Chức năng:
 - Trừ: trừ 2 con số.
 - Nhân: nhân 2 con số.
 - Chia: chia 2 con số.
+
+Kết quả: ![image](https://github.com/user-attachments/assets/cca93917-c8ef-4f9f-8a7a-107d5c210f3e)
