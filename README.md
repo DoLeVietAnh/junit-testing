@@ -1,4 +1,4 @@
-# Junit Testing
+# JUnit Testing
 
 Đỗ Lê Việt Anh - BIT220014 - 22SE1
 
