@@ -1,6 +1,6 @@
 # Junit Testing
 
-Đỗ Lê Việt Anh - BIT220014 - 22IT2
+Đỗ Lê Việt Anh - BIT220014 - 22SE1
 
 Bài tập 1 của môn "Kiểm thử phần mềm" sử dụng JUnit 5 của một máy tính cầm tay cơ bản.
 
