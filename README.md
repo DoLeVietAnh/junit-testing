@@ -78,7 +78,7 @@ mvn test
 | `divide`         | Chia hai giá trị biên lớn               | `Integer.MAX_VALUE`, `Integer.MAX_VALUE` | 1              | 1               | Đạt                              |
 | `divide`         | Chia giá trị âm tại biên với 1          | `Integer.MIN_VALUE`, 1  | `Integer.MIN_VALUE`                | `Integer.MIN_VALUE` | Đạt                      |
 
+![image](https://github.com/user-attachments/assets/889534f4-8d3a-44a4-90bd-82522e2d9c4a)
 
-![image](https://github.com/user-attachments/assets/cca93917-c8ef-4f9f-8a7a-107d5c210f3e)
 
 #### Link ChatGPT: https://chatgpt.com/share/677c978b-e3b8-800c-9d4e-353d5ecd69d1
