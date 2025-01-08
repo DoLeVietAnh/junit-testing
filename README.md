@@ -82,5 +82,3 @@ mvn test
 ![image](https://github.com/user-attachments/assets/cca93917-c8ef-4f9f-8a7a-107d5c210f3e)
 
 #### Link ChatGPT: https://chatgpt.com/share/677c978b-e3b8-800c-9d4e-353d5ecd69d1
-
-### Contact
